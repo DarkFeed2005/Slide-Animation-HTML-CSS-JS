@@ -19,6 +19,16 @@ input:checked + label .description {
 body {
     background-color: #eeeeea;
 }
+body:not(.loaded) .title h1,
+body:not(.loaded) .title h3 {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+body.loaded .title h1,
+body.loaded .title h3 {
+    animation: fadeBounce 2s ease forwards;
+}
 /* Preloader full-screen overlay */
 #preloader {
     position: fixed;
@@ -35,7 +45,7 @@ body {
 .loader {
     width: 60px;
     height: 60px;
-    border: 5px solid #16a085;
+    border: 5px solid #17c8a5;
     border-top-color: transparent;
     border-radius: 50%;
     animation: spin 1.2s linear infinite;
