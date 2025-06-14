@@ -1,3 +1,6 @@
+
 window.addEventListener("load", function() {
-    document.body.classList.add("loaded");
-});
+        setTimeout(function() {
+            document.body.classList.add("loaded");
+        }, 550); // ⏱️ Delay in milliseconds (2000 = 2 seconds)
+    });
