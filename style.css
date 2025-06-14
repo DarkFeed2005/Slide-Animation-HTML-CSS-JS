@@ -56,6 +56,10 @@ body {
 }
 
 /* Glowing effect on hover */
+.title h1:hover {
+    text-shadow: 0px 0px 10px rgba(214, 114, 32, 0.645);
+    transition: text-shadow 0.3s ease-in-out;
+}
 .title h3:hover {
     text-shadow: 0px 0px 10px rgba(22, 160, 133, 0.7);
     transition: text-shadow 0.3s ease-in-out;
