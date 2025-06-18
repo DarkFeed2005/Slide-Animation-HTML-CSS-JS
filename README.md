@@ -9,7 +9,7 @@ KFitX Clothing Website is a stylish and modern online store designed to showcase
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="70" height="70"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="70" height="70"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="70" height="70"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=boostrap" alt="tailwindcss" width="70" height="70"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="tailwindcss" width="70" height="70"/> </a>
 </p>
 
 ## 🔥 Features
